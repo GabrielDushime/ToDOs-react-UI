@@ -1,0 +1,116 @@
+*{
+    padding:0px;
+    margin:0px;
+ }
+ body{
+    background-color: #010B13;
+     font-family:poppins;
+ }
+ h3{
+    text-align: center;
+    margin-top:150px;
+    font-size:15px;
+    color:white;
+ }
+ fieldset{
+    width: 20%;
+    margin: auto;
+   border:0;
+    padding:20px;
+    margin-top:5px;
+    background-color:#002147 ;
+      border-radius:10px;
+ }
+ label{
+    margin-left:10px;
+ }
+ #email{
+    width:90%;
+    margin-left:10px;
+    height:22px;
+    border-radius:3px;
+    border: none;
+ }
+ #password{
+    width:90%;
+    margin-left:10px;
+    height:22px;
+    border-radius:3px;
+    border: none;
+ }
+ #submit{
+    width:90%;
+    margin-left:10px;
+    margin-top:30px;
+    font-weight: bold;
+    font-size:16px;
+    cursor: pointer;
+    transition: font-size 1s;
+    border:0;
+    border-radius:3px;
+    height:22px;
+ }
+ #submit:hover{
+    font-size:20px;
+    color: white;
+    background-color: #F04A00;
+ }
+ p{
+    text-align: center;
+ }
+ p a{
+    text-decoration:none;
+    color: burlywood;
+    transition: font-size 1s;
+ }
+ p a:hover{
+    font-size:20px;
+    color:wheat;
+ }
+ #back{
+    margin-left:700px;
+    text-align: center;
+    width:60px;
+    font-size:15px;
+    border: none;
+    height:30px;
+    border-radius:5px;
+    color: white;
+    font-weight: bold;
+    background-color: #002147;
+    cursor: pointer;
+    transition: font-size 1s;
+ }
+ #back:hover{
+    font-size:20px;
+    color: white;
+    background-color: #F04A00;
+ }
+p{
+    color: white;
+    font-weight: bold;
+}
+label{
+    color: white;
+}
+/*-----------------------------------------------------------------------------------------------*/
+/*Login Button*/
+#login{
+    width:90%;
+    margin-left:10px;
+    margin-top:30px;
+    font-weight: bold;
+    font-size:16px;
+    cursor: pointer;
+    transition: font-size 1s;
+    border:0;
+    border-radius:3px;
+    height:22px;
+}
+#login:hover{
+    font-size:20px;
+    color: white;
+    background-color: #F04A00;
+ }
+
+
